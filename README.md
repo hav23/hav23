@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Looking for work<br><br>🌱 I’m currently learning about ROS2<br>💬 Ask me about micropython<br>⚡ D&D 5e, then games, then work.
+🔭 Looking for work<br>🌱 I’m currently learning about ROS2<br>💬 Ask me about micropython<br>⚡ D&D 5e, then games, then work.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eaglefield) 
